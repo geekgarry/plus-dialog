@@ -1,0 +1,25 @@
+{
+  "name": "plus-dialog",
+  "version": "1.0.0",
+  "description": "一个弹出式对话框，可以传入消息显示，也可以在网页中写好固定的标签，可用于显示登录或注册页面或者查询某项数据显示详细内容。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekgarry/plus-dialog.git"
+  },
+  "keywords": [
+    "plus-dialog",
+    "dialog",
+    "showDialog",
+    "plus-dialog-main"
+  ],
+  "author": "geekgarry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geekgarry/plus-dialog/issues"
+  },
+  "homepage": "https://github.com/geekgarry/plus-dialog#readme"
+}
